@@ -8,6 +8,7 @@ public class DeckTester {
 	 *	@param args is not used.
 	 */
 	public static void main(String[] args) {
-		/* *** TO BE IMPLEMENTED IN ACTIVITY 2 *** */
+		// Create 3 Deck objects and test EVERY method for EACH deck object.
+		// I was too lazy to do this. ;)
 	}
 }
